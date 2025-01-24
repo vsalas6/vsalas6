@@ -1,6 +1,9 @@
 ## Hi there 👋
 ![Picture of me](https://github.com/vsalas6/vsalas6/blob/main/pictureofme.jpeg?raw=true)
 
+About Me:
+My name is Vivian Salas and I am 23 years old. I am going to school to learn more about programming and how to build new projects. Once I graduate, I plan to be a full-stack web developer or a software developer at a company that I value. Some technical skills that I have are HTML, CSS, JavaScript, and Python. Some of my hobbies include going to the gym, reading books, and playing Fortnite.
+
 <!--
 **vsalas6/vsalas6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
