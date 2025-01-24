@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Picture of me](https://github.com/vsalas6/vsalas6/blob/main/pictureofme.jpeg?raw=true)
 
 <!--
 **vsalas6/vsalas6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
